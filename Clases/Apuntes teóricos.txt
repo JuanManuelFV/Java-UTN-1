@@ -1,0 +1,9 @@
+Clase 1 
+
+Primeras nociones del curso.
+
+Clase 2
+
+Vimos Git y Git Hub
+
+Clase 3
