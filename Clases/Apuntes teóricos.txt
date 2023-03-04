@@ -13,4 +13,7 @@ Clase 3
 Probando cambios 4/3
 
 Agregando cosas desde VSC
+
 Chequeando que hay que guardarlas antes de hacer el Add y el Commit 
+
+Prueba 2
