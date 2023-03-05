@@ -6,6 +6,14 @@ Clase 2
 
 Vimos Git y Git Hub
 
+git add . -> Agrega los archivos nuevos o modificados
+
+git commit -m -> los agrega al repositorio
+
+git push -u origin master -> actualiza en github
+
+git status -> informa cambios de los archivos
+
 Clase 3
 
 (Agregar desde cuaderno)
