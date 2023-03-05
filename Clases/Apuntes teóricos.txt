@@ -8,7 +8,7 @@ Vimos Git y Git Hub
 
 git add . -> Agrega los archivos nuevos o modificados
 
-git commit -m -> los agrega al repositorio
+git commit -m "TEXTO QUE DESCRIBA EL CAMBIO" -> los agrega al repositorio
 
 git push -u origin master -> actualiza en github
 
