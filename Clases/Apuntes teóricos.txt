@@ -2,7 +2,7 @@ Clase 1
 
 Primeras nociones del curso.
 
-Clase 2
+Clase 2 28/2
 
 Vimos Git y Git Hub
 
@@ -14,14 +14,14 @@ git push -u origin master -> actualiza en github
 
 git status -> informa cambios de los archivos
 
-Clase 3
+Clase 3 2/3
 
 (Agregar desde cuaderno)
 
-Probando cambios 4/3
+Clase 4 7/3
 
-Agregando cosas desde VSC
+Armar .txt con la Actividad 2. Paso a paso de lo realizado y poner dirección de repositorio.
 
-Chequeando que hay que guardarlas antes de hacer el Add y el Commit 
+Realizamos guia ejercicios practicando While, For y Do While.
 
-Prueba 2
+Mostró como realizar instalación de JDK e IDE.
