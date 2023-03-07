@@ -1,1 +1,47 @@
+//Ejercicio 1.a While
 
+public class Ejercicio {
+    public static void main(String[] args) {
+      int i = 1;
+      while (i <= 100) {
+        System.out.println(i);
+        i++;
+      }  
+    }
+  }
+
+
+  //Ejercicio 1.b con For
+
+  public class Ejercicio {
+    public static void main(String[] args) {
+      int i;
+      for (i=1;i <= 100;i++) {
+        System.out.println(i);
+        
+      }  
+    }
+  }
+// Ejercicio 1.c con Do While
+
+  public class Ejercicio {
+    public static void main(String[] args) {
+      int i;
+      for (i=1;i <= 100;i++) {
+        System.out.println(i);
+        
+      }  
+    }
+  }
+
+   //Ejercicio 1.d con For duplicando resultado
+
+   public class Ejercicio {
+    public static void main(String[] args) {
+      int i;
+      for (i=1;i <= 100;i++) {
+        System.out.println(i*2);
+        
+      }  
+    }
+  }
