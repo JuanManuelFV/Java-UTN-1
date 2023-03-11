@@ -1,4 +1,4 @@
-Clase 1 - PROBANDO CAMBIO
+Clase 1 - PROBANDO LOCALMENTE
 
 Primeras nociones del curso.
 
