@@ -1,0 +1,21 @@
+1. Creé una cuenta en GitHub y un repositorio
+
+2. Cloné el repositorio localmente utilizando el siguiente comando:
+
+git remote add origin https://github.com/bluuweb/tutorial-github.git
+
+3.Creé archivo .txt, lo agregué y hice el commit utilizando los siguientes comandos
+
+git add .
+
+git commit -m "Mi primer commit"
+
+4.Hice el push para enviar el archivo a GitHub utilizando el comando:
+
+git push -u origin master
+
+5.Modifiqué el archivo desde GitHub y luego hice el pull localmente para poder traer los cambios:
+
+git pull
+
+6. Modifiqué el archivo en GitHub y luego localmente pero me avisa que hay cambios sin realizar. 
