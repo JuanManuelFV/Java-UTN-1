@@ -41,6 +41,16 @@ System.out.println(arrayNumeros[6] / 3);
 
 1.d
 
+public class Ejercicio1d {
+	 public static void main(String[]args){ 
+		 String libreria []={"lapiz", "cartulina", "tijera", "abrochadora"};
+		 int precios[]={80,30,300,520};
+		 	System.out.println("Listado de productos");
+		 		for (int u=0;u<libreria.length;u++){
+		 			System.out.println("Art. " + libreria[u]+ " Precio: $"+ precios[u]); 
+		 		} 
+	 		}
+	 }
 1.e
 
 public class Ejercicio1e {

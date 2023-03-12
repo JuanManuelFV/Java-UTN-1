@@ -1,6 +1,11 @@
 1. Creé una cuenta en GitHub y un repositorio
 
-2. Cloné el repositorio localmente utilizando el siguiente comando:
+2. Configuré mi nombre y email:
+
+git config --global user.name "Juan"
+git config --global user.email "juanferveg.90@gmail.com"
+
+Cloné el repositorio localmente utilizando el siguiente comando:
 
 git remote add origin https://github.com/bluuweb/tutorial-github.git
 
@@ -18,4 +23,4 @@ git push -u origin master
 
 git pull
 
-6. Modifiqué el archivo en GitHub y luego localmente pero me avisa que hay cambios sin realizar. 
+
