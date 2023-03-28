@@ -13,10 +13,10 @@ public class Clase4c {
         System.out.println("Este es el listado de productos disponibles" + "\n" + "1 kg de frutas - $200 | Código F" + "\n" + "1 kg de verduras- $350 | Código V" + "\n" + "1 gaseosa - $300 | Código G");
 
         String producto = "";
-        while (!producto.equalsIgnoreCase("Fin")) {
+        while (!producto.equals("Fin")) {
             System.out.print("Ingrese código de producto que desea comprar o Fin para finalizar compra: ");
             producto = scanner.nextLine();
-            if (!producto.equalsIgnoreCase("Fin")) {
+            if (!producto.equals("Fin")) {
                 int precio = 0;
                 if (producto.equals("F")) {
                     precio += 200;
