@@ -1,4 +1,4 @@
-Pasos para resolución del Ejercicio 13
+Pasos realizados para resolución
 
 Instalar MySQL
 Descargar el driver de Google Drive.
