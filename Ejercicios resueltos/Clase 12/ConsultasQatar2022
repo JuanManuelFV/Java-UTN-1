@@ -1,0 +1,26 @@
+//Insertar empleado:
+
+INSERT INTO empleados (DniEmp, NomEmp, ApeEmp, NacEmp, DepEmp) 
+VALUES (123456789, 'Diego', 'Rodriguez', 'Argentina', 1;
+
+//Modificar la nacionalidad de algún empleado.
+
+UPDATE empleados 
+SET NacEmp = 'Argentina' 
+WHERE DniEmp = 123456789;
+
+//Eliminar un departamento.
+
+DELETE FROM departamento WHERE NroDep=1;
+
+//Conocer los empleados que trabajan en el departamento de “logística” (
+
+SELECT * FROM empleados WHERE DepEmp=1; 
+
+// Mostrar todos los departamentos ordenados alfabéticamente.
+
+SELECT * FROM departamento 
+ORDER BY NomDep ASC;
+
+
+

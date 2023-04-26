@@ -1,0 +1,27 @@
+
+create database qatar2022;
+
+-----------
+
+use qatar2022;
+
+
+ create table departamento(
+ NroDepartamento int(5) not null,
+ NomDepartamento varchar(30) not null,
+ PrepDepartamento decimal(4,2) not null,
+ primary key (NroDep)
+  ) engine=InnoDB;
+
+
+---------------
+
+create table empleados(
+DniEmpleado int(10) not null,
+NomEmpleado varchar(30) not null,
+ApeEmpleado varchar(30) not null,
+NacEmpleado varchar(30) not null, 
+primary key (DniEmp),
+DepEmp int(5),
+foreign key(DepEmp) references departamento(NroDep) on delete no action on update no action
+) engine=innodb;
